@@ -31,6 +31,12 @@ public class Ejemplo {
 
 		System.out.println(
 				"La resta de la variable A (" + a + ") más la variable N (" + n + ") da como resultado " + resta);
+		
+		// Mostrar el valor numérico de la variable C:
+
+		int cNum = (int) c;
+
+		System.out.println("El valor numérico de la variable C (" + c + ") es " + cNum);
 
 	}
 
