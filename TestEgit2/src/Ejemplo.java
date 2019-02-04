@@ -18,6 +18,10 @@ public class Ejemplo {
 		System.out.println("N = " + n);
 		System.out.println("A = " + a);
 		System.out.println("C = " + c);
+		// Mostrar la suma de N + A:
+
+		double suma = n + a;
+		System.out.println("La suma de la variable N (" + n + ") más la variable A (" + a + ") da como 		resultado " + suma);
 
 	}
 
